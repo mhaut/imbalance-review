@@ -9,7 +9,7 @@ June 2023.
 ```
 
 <p align="center">
-<img src="images/OV.png" width="800" align="center">
+<img src="images/OV.png" width="1000" align="center">
 </p>
 
 ## Run code
